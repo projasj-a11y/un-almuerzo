@@ -59,4 +59,4 @@ Guia de Uso por Modulo:
    - Concepción y planteamiento de la problemática real del comedor en la Universidad Nacional de Colombia (UNAL), desarrollo y alimentación del código lógico inicial (versión en consola), identificación y corrección de inconsistencias en la lógica de negocio, prueba mecánica de las estructuras de datos (Arreglo, Pila y Cola) y adaptación del diseño del software para el flujo real de la cajera y el estudiante.
 
 2. Asistencia por Herramientas de IA (Gemini) (50%):
-   -Estructuración sintáctica de la librería streamlit, soporte técnico para resolver errores de dependencias de entorno (pip/ensurepip), optimización de componentes visuales de la interfaz gráfica y maquetación de la documentación en formato Markdown.
+   - Estructuración sintáctica de la librería streamlit, soporte técnico para resolver errores de dependencias de entorno (pip/ensurepip), optimización de componentes visuales de la interfaz gráfica y maquetación de la documentación en formato Markdown.

@@ -74,7 +74,7 @@ class SistemaComedor:
         self.registros_caja = ColaRegistrosCaja()  # Cola central de atenciones
         ## Manual de Usuario
 
-# MANUAL DE USUARIO 
+## MANUAL DE USUARIO 
 
 Requisitos Previos:
 - Tener instalado Python 3.8 o superior.
@@ -103,7 +103,7 @@ Guia de Uso por Modulo:
      de almuerzos entregados en el turno.
 
 
-# DECLARACIÓN DE USO DE INTELIGENCIA ARTIFICIAL (TEXTO EN CÓDIGO)
+## DECLARACIÓN DE USO DE INTELIGENCIA ARTIFICIAL (TEXTO EN CÓDIGO)
 
 1. Desarrollo y Logica por personal (50%):
    - Concepción y planteamiento de la problemática real del comedor en la Universidad Nacional de Colombia (UNAL), desarrollo y alimentación del código lógico inicial (versión en consola), identificación y corrección de inconsistencias en la lógica de negocio, prueba mecánica de las estructuras de datos (Arreglo, Pila y Cola) y adaptación del diseño del software para el flujo real de la cajera y el estudiante.

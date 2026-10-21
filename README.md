@@ -1,6 +1,6 @@
-#UN-Almuerzo: Sistema de Validación Rápida y Recarga de Almuerzos
+#UN-Almuerzo: Sistema de Validación Rápida y Recarga de Almuerzos#
 
-**Universidad Nacional de Colombia**
+**Paula Victoria Rojas Jerez**
 
 
 ## Justificación del Problema Real

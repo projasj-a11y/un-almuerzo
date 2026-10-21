@@ -25,8 +25,7 @@ A continuación se detalla por qué y cómo se utilizó cada una de las 3 estruc
 * Por qué se usó: Sigue la filosofía First In, First Out (Primero en Entrar, Primero en Salir). Garantiza que las atenciones procesadas en caja se registren en un orden cronológico estricto para fines de auditoría del turno.
 * Cómo se usó: Se implementó con la clase `ColaRegistrosCaja` (utilizando `collections.deque`). Cada vez que la cajera aprueba el paso de un estudiante, la validación se encola (`encolar_atencion()`), permitiendo al módulo de administración consultar la secuencia cronológica de almuerzos entregados.
 
-## MANUAL DE USUARIO 
-
+## Manual de usuario
 Requisitos Previos:
 - Tener instalado Python 3.8 o superior.
 - Libreria streamlit (pip install streamlit).
@@ -54,7 +53,7 @@ Guia de Uso por Modulo:
      de almuerzos entregados en el turno.
 
 
-# DECLARACIÓN DE USO DE INTELIGENCIA ARTIFICIAL (TEXTO EN CÓDIGO)
+# Declaración del uso de la IA
 
 1. Desarrollo y Logica por personal (50%):
    - Concepción y planteamiento de la problemática real del comedor en la Universidad Nacional de Colombia (UNAL), desarrollo y alimentación del código lógico inicial (versión en consola), identificación y corrección de inconsistencias en la lógica de negocio, prueba mecánica de las estructuras de datos (Arreglo, Pila y Cola) y adaptación del diseño del software para el flujo real de la cajera y el estudiante.

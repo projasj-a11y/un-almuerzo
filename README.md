@@ -44,7 +44,7 @@ Guia de Uso por Modulo:
 
 2. Modulo Cajera (Punto de Control):
    - Ingrese el documento del estudiante en la fila.
-   - Presione VALIDAR PASO. En menos de 60 segundos el sistema autorizara
+   - Presione VALIDAR PASO. En menos de 2 segundos el sistema autorizara
      el ingreso descontando 1 almuerzo o indicara saldo insuficiente.
 
 3. Modulo Administracion:

@@ -13,7 +13,7 @@ UN-Almuerzo elimina el pago directo en el punto de entrega mediante un sistema d
 A continuación se detalla por qué y cómo se utilizó cada una de las 3 estructuras de datos lineales implementadas en el proyecto:
 
 ### 1. Arreglo Dinámico (`list` en Python)
-* Por qué se usó: Se requiere una estructura de datos contigua en memoria de tamaño flexible que permita almacenar el registro global de estudiantes y escalar automáticamente a medida que se inscriben nuevos usuarios sin reorganizar la memoria manualmente.
+* Por qué se usó: Se requiere un arreglo dinámico de tamaño flexible que permita almacenar el registro global de estudiantes y escalar automáticamente a medida que se inscriban nuevos usuarios sin reorganizar la memoria manualmente.
 * Cómo se usó: Se utiliza en la clase `SistemaComedor` para mantener la lista `self.estudiantes`. Permite iterar y buscar eficientemente a los estudiantes mediante su número de documento al momento de consultar saldo, efectuar recargas o validar su ingreso en caja.
 
 ### 2. Pila (`Stack` - LIFO)
